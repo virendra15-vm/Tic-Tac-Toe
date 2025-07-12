@@ -160,4 +160,10 @@
         height: 38px;
         margin-top: 0px;
     }
+
+    .reset {
+        width: 160px;
+        height: 62px;
+        font-size: 22px;
+    }
 }
